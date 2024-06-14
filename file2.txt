@@ -1,0 +1,1 @@
+"This is a new file, I just added to practice git. Git is a version control tool. It's very awesome." 
